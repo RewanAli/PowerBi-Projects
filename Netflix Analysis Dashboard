@@ -1,38 +1,38 @@
-## 📊 Overview
+## Overview
 This Power BI project explores Netflix's content catalog and provides insights into its distribution across years, countries, genres, and ratings. The dashboard is designed to 
 help understand content trends and audience targeting by visualizing key metrics from the dataset.
 
-## 🎯 Objective
+## Objective
 
 - Analyze Netflix content by type, rating, genre, release year, and country
 - Identify trends in show releases over time
 - Visualize the global distribution of Netflix content
 - Understand viewer content preferences by category
 
-## 🧰 Tools & Technologies
+## Tools & Technologies
 
-- **Power BI Desktop** – Data visualization and report design  
-- **Power Query** – Data cleaning and transformation  
-- **DAX** – Custom measures and KPIs  
-- **Excel/CSV** – Source data format
+- Power BI Desktop– Data visualization and report design  
+- Power Query– Data cleaning and transformation  
+- DAX– Custom measures and KPIs  
+- Excel/CSV– Source data format
 
-## 🧩 Dashboard Features
+## Dashboard Features
 
-- **Total Shows** – Overall number of movies and TV shows  
-- **Total Ratings** – Number of unique rating categories  
-- **Total Genres** – Distinct genre categories  
-- **Total Directors** – Count of unique directors  
-- **Line Chart** – Number of shows released by year  
-- **Bar Chart** – Distribution of content by rating category  
-- **Map Visualization** – Number of shows produced per country  
-- **Pie Chart** – Percentage of content type (Movies vs. TV Shows)
+- Total Shows– Overall number of movies and TV shows  
+- Total Ratings – Number of unique rating categories  
+- Total Genres – Distinct genre categories  
+- Total Directors – Count of unique directors  
+- Line Chart – Number of shows released by year  
+- Bar Chart – Distribution of content by rating category  
+- Map Visualization – Number of shows produced per country  
+- Pie Chart – Percentage of content type (Movies vs. TV Shows)
 
 
-## 📂 File
+## File
 follow the link ----(https://drive.google.com/drive/folders/1cgUphsx941aysZxTf8l8nHEfSTsrZj5p)
 
 
-## ✅ Key Insights
+## Key Insights
 
 - Netflix’s content production has increased significantly in recent years  
 - Certain rating categories (like TV-MA or PG-13) dominate the catalog  
