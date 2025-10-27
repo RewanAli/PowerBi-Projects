@@ -1,38 +1,38 @@
-## 📊 Overview
+## Overview
 This Power BI project is a key component of a comprehensive banking system pipeline. It focuses on analyzing **customer behavior, financial activity, and branch-level performance** through a set of interactive, business-oriented dashboards.
 The purpose of this dashboard is to help decision-makers in the retail banking sector monitor key performance indicators (KPIs), track customer trends, and support data-driven planning across branches and departments.
 
-## 🎯 Objective
+## Objective
 - Visualize customer and account data across various branches
 - Segment customers by age, income, and account type
 - Analyze product usage and loan distribution
 - Track branch performance through custom KPIs
 - Enable dynamic exploration of trends using filters and slicers
 
-## 🧰 Tools & Technologies
+## Tools & Technologies
 - Power BI Desktop – Report design and visualization
 - Power Query – Data modeling and transformation
 - DAX (Data Analysis Expressions) – Creating calculated columns, measures, and custom KPIs
 - SQL Server – Source for structured banking data
 
-## 🧩 Key Features
-- 📌 **Branch-wise KPIs** for deposits, loans, and customer counts  
-- 📌 **Customer segmentation** by demographics and behavior  
-- 📌 **Loan performance metrics** with growth and risk indicators  
-- 📌 **Interactive filtering** by branch, date, product, and more  
-- 📌 **Drill-down and drill-through** navigation for detailed analysis  
+## Key Features
+- Branch-wise KPIs** for deposits, loans, and customer counts  
+- Customer segmentation** by demographics and behavior  
+- Loan performance metrics** with growth and risk indicators  
+- Interactive filtering** by branch, date, product, and more  
+- Drill-down and drill-through** navigation for detailed analysis  
 
-## 📂 File
-🔗 [Power BI File – Google Drive](https://drive.google.com/drive/folders/1IdhCX54i-MaOZ62Cn2LhSRFyh1TOfUf_)
+## File
+   [Power BI File – Google Drive](https://drive.google.com/drive/folders/1IdhCX54i-MaOZ62Cn2LhSRFyh1TOfUf_)
 
-## 🧠 Insights & Value
+## Insights & Value
 This dashboard offers real-time insights into core banking operations and can be adapted for:
 - Executive reporting  
 - Branch manager monitoring  
 - Product performance tracking  
 - Customer behavior analysis
 
-## ✅ Conclusion
+## Conclusion
 
 This Power BI dashboard highlights my capability to:
 - Build complete data models  
